@@ -1,0 +1,12 @@
+body {
+  font-family: Sans-Serif;
+}
+
+.icon{
+    height: 1em;
+    padding-right: 1em;
+}
+
+a {text-decoration: none; }
+a:hover {text-decoration: underline; }
+
